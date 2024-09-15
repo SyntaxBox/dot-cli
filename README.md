@@ -35,7 +35,7 @@ This repository contains a collection of scripts to install various tools. The `
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/cargopip/dot-cli
+git clone https://github.com/syntaxbox/dot-cli
 cd dot-cli
 ```
 
@@ -59,7 +59,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new featu
 2. **Clone Your Fork**
 
    ```sh
-   git clone https://github.com/cargopip/dot-cli
+   git clone https://github.com/syntaxbox/dot-cli
    cd dot-cli
    ```
 
